@@ -1,0 +1,302 @@
+Product Information:
+
+Product ID: 1
+Product Name: JIMMY CHOO  Ricia 95 leather platform sandals
+Product Description: Ricia 95 leather platform sandals
+Product Price: £675.00
+
+Product ID: 2
+Product Name: PRADA  Downtown brand-plaque leather low-top trainers
+Product Description: Downtown brand-plaque leather low-top trainers
+Product Price: £850.00
+
+Product ID: 3
+Product Name: BIRKENSTOCK  Arizona two-strap rubber sandals
+Product Description: Arizona two-strap rubber sandals
+Product Price: £45.00
+
+Product ID: 4
+Product Name: UGG  GoldenGlow adjustable-strap woven sandals
+Product Description: GoldenGlow adjustable-strap woven sandals
+Product Price: £90.00
+
+Product ID: 5
+Product Name: GUCCI  New Ace web-stripe leather low-top trainers
+Product Description: New Ace web-stripe leather low-top trainers
+Product Price: £575.00
+
+Product ID: 6
+Product Name: BALENCIAGA  Knife 110 pointed-toe velvet courts
+Product Description: Knife 110 pointed-toe velvet courts
+Product Price: £710.00
+
+Product ID: 7
+Product Name: GOLDEN GOOSE  Super Star Sabot 90426 glitter-embellished leather slip-on trainers
+Product Description: Super Star Sabot 90426 glitter-embellished leather slip-on trainers
+Product Price: £485.00
+
+Product ID: 8
+Product Name: VEJA  Women's Volley logo-embroidered canvas low-top trainers
+Product Description: Women's Volley logo-embroidered canvas low-top trainers
+Product Price: £130.00
+
+Product ID: 9
+Product Name: CHRISTIAN LOUBOUTIN  Tatoosh Spikes 85 leather heeled sandals
+Product Description: Tatoosh Spikes 85 leather heeled sandals
+Product Price: £765.00
+
+Product ID: 10
+Product Name: ALEXANDER MCQUEEN  Deck cap-toe woven low-top trainers
+Product Description: Deck cap-toe woven low-top trainers
+Product Price: £370.00
+
+Product ID: 11
+Product Name: STEVE MADDEN  Mistica 575 crystal-embellished woven low-top trainers
+Product Description: Mistica 575 crystal-embellished woven low-top trainers
+Product Price: £120.00
+
+Product ID: 12
+Product Name: CHLOE  Woody logo-print canvas sandals
+Product Description: Woody logo-print canvas sandals
+Product Price: £390.00
+
+Product ID: 13
+Product Name: SAINT LAURENT  Gippy 105 crystal-embelllished leather heeled sandals
+Product Description: Gippy 105 crystal-embelllished leather heeled sandals
+Product Price: £890.00
+
+Product ID: 14
+Product Name: MANOLO BLAHNIK  Lurum crystal-embellished satin mules
+Product Description: Lurum crystal-embellished satin mules
+Product Price: £1145.00
+
+Product ID: 15
+Product Name: AMINA MUADDI  Begum 70 slingback canvas heels
+Product Description: Begum 70 slingback canvas heels
+Product Price: £950.00
+
+Product ID: 16
+Product Name: RENE CAOVILLA  Cleo 105 satin heeled sandals
+Product Description: Cleo 105 satin heeled sandals
+Product Price: £955.00
+
+Product ID: 17
+Product Name: AXEL ARIGATO  Dice Lo leather and suede low-top trainers
+Product Description: Dice Lo leather and suede low-top trainers
+Product Price: £220.00
+
+Product ID: 18
+Product Name: LOEWE  Campo leather Mary Jane flats
+Product Description: Campo leather Mary Jane flats
+Product Price: £1000.00
+
+Product ID: 19
+Product Name: LANVIN  Meteor branded suede and mesh low-top trainers
+Product Description: Meteor branded suede and mesh low-top trainers
+Product Price: £490.00
+
+Product ID: 20
+Product Name: OFF-WHITE C/O VIRGIL ABLOH  Logo-plaque point-toe slingback leather flats
+Product Description: Logo-plaque point-toe slingback leather flats
+Product Price: £550.00
+
+Product ID: 21
+Product Name: NAKED WOLFE  Crash chunky-sole leather low-top trainers
+Product Description: Crash chunky-sole leather low-top trainers
+Product Price: £300.00
+
+Product ID: 22
+Product Name: BURBERRY  Bow-embellished suede mules
+Product Description: Bow-embellished suede mules
+Product Price: £690.00
+
+Product ID: 23
+Product Name: AQUAZZURA  Gatsby crystal-embellished canvas heeled courts
+Product Description: Gatsby crystal-embellished canvas heeled courts
+Product Price: £950.00
+
+Product ID: 24
+Product Name: CHLOE  Woody logo-print canvas sandals
+Product Description: Woody logo-print canvas sandals
+Product Price: £360.00
+
+Product ID: 25
+Product Name: BIRKENSTOCK  Boston logo-embossed suede clogs
+Product Description: Boston logo-embossed suede clogs
+Product Price: £130.00
+
+Product ID: 26
+Product Name: CHLOE  Woody logo-print canvas sandals
+Product Description: Woody logo-print canvas sandals
+Product Price: £360.00
+
+Product ID: 27
+Product Name: UGG  Tazz suede and shearling slippers
+Product Description: Tazz suede and shearling slippers
+Product Price: £125.00
+
+Product ID: 28
+Product Name: ADIDAS  Gazelle Indoor suede trainers
+Product Description: Gazelle Indoor suede trainers
+Product Price: £89.99
+
+Product ID: 29
+Product Name: BIRKENSTOCK  Boston buckle-embellished suede sandals
+Product Description: Boston buckle-embellished suede sandals
+Product Price: £130.00
+
+Product ID: 30
+Product Name: BIRKENSTOCK  Arizona double-strap suede sandals
+Product Description: Arizona double-strap suede sandals
+Product Price: £105.00
+
+Product ID: 31
+Product Name: UGG  Tazz platform shearling-lined suede slippers
+Product Description: Tazz platform shearling-lined suede slippers
+Product Price: £125.00
+
+Product ID: 32
+Product Name: NIKE  Air Jordan 4 branded leather high-top trainers
+Product Description: Air Jordan 4 branded leather high-top trainers
+Product Price: £190.00
+
+Product ID: 33
+Product Name: BIRKENSTOCK  Boston logo-embossed suede clogs
+Product Description: Boston logo-embossed suede clogs
+Product Price: £130.00
+
+Product ID: 34
+Product Name: VEJA  Women's Volley logo-embroidered suede low-top trainers
+Product Description: Women's Volley logo-embroidered suede low-top trainers
+Product Price: £130.00
+
+Product ID: 35
+Product Name: COMME DES GARCONS  Comme des Garçons PLAY x Converse canvas high-top trainers
+Product Description: Comme des Garçons PLAY x Converse canvas high-top trainers
+Product Price: £140.00
+
+Product ID: 36
+Product Name: CHRISTIAN LOUBOUTIN  Calakala suede heeled sandals
+Product Description: Calakala suede heeled sandals
+Product Price: £695.00
+
+Product ID: 37
+Product Name: BRUNELLO CUCINELLI  Penny bead-embellished leather loafers
+Product Description: Penny bead-embellished leather loafers
+Product Price: £890.00
+
+Product ID: 38
+Product Name: VALENTINO GARAVANI  VLOGO 40 patent-leather slingback courts
+Product Description: VLOGO 40 patent-leather slingback courts
+Product Price: £850.00
+
+Product ID: 39
+Product Name: LOEWE  Flow Runner monogram-embroidered suede low-top trainers
+Product Description: Flow Runner monogram-embroidered suede low-top trainers
+Product Price: £595.00
+
+Product ID: 40
+Product Name: AMINA MUADDI  Begum 70 crystal-embellished PVC heeled mules
+Product Description: Begum 70 crystal-embellished PVC heeled mules
+Product Price: £950.00
+
+Product ID: 41
+Product Name: CHRISTIAN LOUBOUTIN  Rosalie 100 leather heeled sandals
+Product Description: Rosalie 100 leather heeled sandals
+Product Price: £695.00
+
+Product ID: 42
+Product Name: CHRISTIAN LOUBOUTIN  Pyraclou 60 stud-embellished suede wedge sandals
+Product Description: Pyraclou 60 stud-embellished suede wedge sandals
+Product Price: £830.00
+
+Product ID: 43
+Product Name: NIKE  Dunk Low panelled leather low-top trainers
+Product Description: Dunk Low panelled leather low-top trainers
+Product Price: £120.00
+
+Product ID: 44
+Product Name: ADIDAS  Samba OG logo-print leather low-top trainers
+Product Description: Samba OG logo-print leather low-top trainers
+Product Price: £89.99
+
+Product ID: 45
+Product Name: BIRKENSTOCK  Cannes buckled leather sandals
+Product Description: Cannes buckled leather sandals
+Product Price: £205.00
+
+Product ID: 46
+Product Name: CHLOE  Lauren brand-motif lace trainers
+Product Description: Lauren brand-motif lace trainers
+Product Price: £450.00
+
+Product ID: 47
+Product Name: BIRKENSTOCK  Boston buckle-motif suede sandals
+Product Description: Boston buckle-motif suede sandals
+Product Price: £130.00
+
+Product ID: 48
+Product Name: BALENCIAGA  Women's Speed stretch-knit trainers
+Product Description: Women's Speed stretch-knit trainers
+Product Price: £650.00
+
+Product ID: 49
+Product Name: JIMMY CHOO  Ander square-toe leather heeled sandals
+Product Description: Ander square-toe leather heeled sandals
+Product Price: £725.00
+
+Product ID: 50
+Product Name: AXEL ARIGATO  Orbit Vintage contrast-panel leather and suede trainers
+Product Description: Orbit Vintage contrast-panel leather and suede trainers
+Product Price: £235.00
+
+Product ID: 51
+Product Name: BIRKENSTOCK  Arizona Big Buckle leather sandals
+Product Description: Arizona Big Buckle leather sandals
+Product Price: £125.00
+
+Product ID: 52
+Product Name: BIRKENSTOCK  Arizona two-strap leather sandals
+Product Description: Arizona two-strap leather sandals
+Product Price: £95.00
+
+Product ID: 53
+Product Name: VALENTINO GARAVANI  Toile Iconographe woven low-top espadrilles
+Product Description: Toile Iconographe woven low-top espadrilles
+Product Price: £580.00
+
+Product ID: 54
+Product Name: AXEL ARIGATO  Dice-A panelled leather and suede low-top trainers
+Product Description: Dice-A panelled leather and suede low-top trainers
+Product Price: £230.00
+
+Product ID: 55
+Product Name: GANNI  Eyelets Ballerina leather flats
+Product Description: Eyelets Ballerina leather flats
+Product Price: £275.00
+
+Product ID: 56
+Product Name: CHRISTIAN LOUBOUTIN  Mamadrague spike-embellished leather pumps
+Product Description: Mamadrague spike-embellished leather pumps
+Product Price: £775.00
+
+Product ID: 57
+Product Name: ON-RUNNING  Cloudvista cushioned-sole mesh low-top trainers
+Product Description: Cloudvista cushioned-sole mesh low-top trainers
+Product Price: £140.00
+
+Product ID: 58
+Product Name: OFF-WHITE C/O VIRGIL ABLOH  OOO low-top leather trainers
+Product Description: OOO low-top leather trainers
+Product Price: £475.00
+
+Product ID: 59
+Product Name: FITFLOP  IQushion Deluxe ergonomic leather slides
+Product Description: IQushion Deluxe ergonomic leather slides
+Product Price: £110.00
+
+Product ID: 60
+Product Name: VALENTINO GARAVANI  VLOGO 40 pointed-toe leather slingback courts
+Product Description: VLOGO 40 pointed-toe leather slingback courts
+Product Price: £850.00
+
